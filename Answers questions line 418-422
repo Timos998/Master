@@ -1,0 +1,22 @@
+The first results with pirates of the caribbean gave 1 result.
+After lowering the 0.99 to 0.30 on line 404 i got more rusults.
+
+I did the same with my favorite movie Batman The Dark Knight
+Rises. This gave me a list of 50 recommendations. The highest of
+that list was Good Night, and Good Luck. This was unexpected because
+i did not know this movie, the other result were Harry Potter and 
+Sherlock Holmes. This are two films is already watched and really liked,
+so these movies where expected. 
+
+When I did the same suquence aigen with title i got very poor results.
+There was only one movie selected even when i dropped the 0.99 to 0.10 and
+the movies was the movie The Dark Knight Rises itself. 
+
+When I did the same sequence aigen with Starring I got very good results.
+I got a list of 50 movies, but it where not movies i really liked. The
+highest ranked movie was Premium Rush. 
+
+Conclusion I got the worst results with title. The most movies with Starring,
+But with summary I got less results but the results where movies I liked.
+
+
